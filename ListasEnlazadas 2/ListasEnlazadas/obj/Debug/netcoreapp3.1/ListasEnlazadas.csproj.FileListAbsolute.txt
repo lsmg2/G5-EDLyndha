@@ -1,0 +1,14 @@
+C:\Users\Adrian\source\repos\ListasEnlazadas\ListasEnlazadas\bin\Debug\netcoreapp3.1\ListasEnlazadas.exe
+C:\Users\Adrian\source\repos\ListasEnlazadas\ListasEnlazadas\bin\Debug\netcoreapp3.1\ListasEnlazadas.deps.json
+C:\Users\Adrian\source\repos\ListasEnlazadas\ListasEnlazadas\bin\Debug\netcoreapp3.1\ListasEnlazadas.runtimeconfig.json
+C:\Users\Adrian\source\repos\ListasEnlazadas\ListasEnlazadas\bin\Debug\netcoreapp3.1\ListasEnlazadas.runtimeconfig.dev.json
+C:\Users\Adrian\source\repos\ListasEnlazadas\ListasEnlazadas\bin\Debug\netcoreapp3.1\ListasEnlazadas.dll
+C:\Users\Adrian\source\repos\ListasEnlazadas\ListasEnlazadas\bin\Debug\netcoreapp3.1\ListasEnlazadas.pdb
+C:\Users\Adrian\source\repos\ListasEnlazadas\ListasEnlazadas\obj\Debug\netcoreapp3.1\ListasEnlazadas.csproj.AssemblyReference.cache
+C:\Users\Adrian\source\repos\ListasEnlazadas\ListasEnlazadas\obj\Debug\netcoreapp3.1\ListasEnlazadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\source\repos\ListasEnlazadas\ListasEnlazadas\obj\Debug\netcoreapp3.1\ListasEnlazadas.AssemblyInfoInputs.cache
+C:\Users\Adrian\source\repos\ListasEnlazadas\ListasEnlazadas\obj\Debug\netcoreapp3.1\ListasEnlazadas.AssemblyInfo.cs
+C:\Users\Adrian\source\repos\ListasEnlazadas\ListasEnlazadas\obj\Debug\netcoreapp3.1\ListasEnlazadas.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\ListasEnlazadas\ListasEnlazadas\obj\Debug\netcoreapp3.1\ListasEnlazadas.dll
+C:\Users\Adrian\source\repos\ListasEnlazadas\ListasEnlazadas\obj\Debug\netcoreapp3.1\ListasEnlazadas.pdb
+C:\Users\Adrian\source\repos\ListasEnlazadas\ListasEnlazadas\obj\Debug\netcoreapp3.1\ListasEnlazadas.genruntimeconfig.cache
